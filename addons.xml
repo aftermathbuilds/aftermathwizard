@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.aftermathwizard" name="Aftermath Wizard" version="0.1.0" provider-name="Aftermath">
+<addon id="plugin.program.aftermathwizard" name="Aftermath Wizard" version="0.1.1" provider-name="Aftermath">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
